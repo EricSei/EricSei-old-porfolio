@@ -1,3 +1,30 @@
-body{
-    background-color: green;
+
+.container-fluid{
+    color: black;
 }
+
+.jumbotron , .skill-set, .skill-set-title , .projects-title {
+    text-align: center;
+}
+.sub-skill-set, .projects{
+    height: 200px;
+}
+
+.lead.resume {
+    color: red;
+}
+.logo{
+    width:30%;
+}
+.footer, .jumbotron{
+    
+    text-align: center;
+    color:white;
+}
+
+.fab{
+    font-size: 20px;
+}
+
+
+
