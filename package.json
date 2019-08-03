@@ -1,6 +1,6 @@
 {
-  "name": "workspace",
-  "version": "1.0.0",
+  "name": "portfolio",
+  "version": "1.2.0",
   "description": "portfolio page",
   "main": "index.js",
   "scripts": {
@@ -20,9 +20,14 @@
   },
   "homepage": "https://github.com/EricSei/ericsei.github.io#readme",
   "dependencies": {
-    "ejs": "^2.6.1",
-    "express": "^4.16.4",
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
     "package.json": "^2.0.1",
-    "request": "^2.88.0"
-  }
+    "request": "^2.88.0",
+    "superheroes": "^3.0.0"
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "devDependencies": {}
 }

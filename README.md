@@ -1,4 +1,4 @@
 # ericsei.github.io
 
 # Portfolio Web Page
-    * Build With GitHub Pages.
+    * https://ericsei.github.io
