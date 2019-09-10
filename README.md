@@ -1,4 +1,5 @@
 # ericsei.github.io
 
 # Portfolio Web Page
-    * https://ericsei.github.io
+
+- https://ericsei.github.io
